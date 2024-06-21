@@ -1,11 +1,8 @@
-# Locally deploy Pydio Cells in no time!
+# Pydio Cells
 
-This sample configuration helps you running a Cells server in sandbox mode with docker compose.
+Ver en "https://localhost:8200"
 
-On your workstation, simply:
+Username: admin
 
-- Run `docker-compose up -d`.
-- Open a browser at [https://localhost:8200](https://localhost:8200)
-- Accept the self-signed certificate
-- Log in with admin / admin
-- Start to explore
+Password: admin
+
