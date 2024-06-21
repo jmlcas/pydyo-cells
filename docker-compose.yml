@@ -10,7 +10,7 @@ services:
       - ./data:/var/cells/data
 
   mysql:
-    image: mariadb:latst
+    image: mariadb:latest
     restart: unless-stopped
     environment:
       MYSQL_ROOT_PASSWORD: P@ssw0rd
