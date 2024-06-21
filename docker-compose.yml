@@ -17,6 +17,5 @@ services:
       MYSQL_DATABASE: cells
       MYSQL_USER: pydio
       MYSQL_PASSWORD: P@ssw0rd
-    command: [mysqld, --character-set-server=utf8mb4, --collation-server=utf8mb4_unicode_ci]
     volumes:
       - ./mysqldir:/var/lib/mysql
