@@ -2,7 +2,11 @@
 
 Ver en "https://localhost:8200"
 
+Host Name: mysql
+
+Database Password: P@ssw0rd
+
 Username: admin
 
-Password: admin
+Password: a ingresar 
 
